@@ -1,2 +1,2 @@
 # VMKS-project-charger-with-power-bank
-Projects for the school 1st term; 10 grade; subject VMKS
+Project for the 1st term of 10 grade for the subject of VMKS.
